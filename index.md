@@ -4,7 +4,7 @@ Egyptain License plate recognition system.
 The system is used to detect and recognize egyptain license plates.
 
 ## Example:
-[!imgif](/assets/images/lpr.gif]
+![Git logo](assets/images/lpr.gif)
 ## Features: 
 - Real time detection and recognition for Egyptain license plate.
 - Works well with any  camera with no special calibration.
